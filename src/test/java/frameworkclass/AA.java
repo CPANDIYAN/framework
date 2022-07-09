@@ -36,5 +36,11 @@ public class AA {
 		List<Integer> m4 = a.m4();
 		System.out.println(m4);
 		
+		System.out.println("July class  update");
+		System.out.println("July class  update");
+		System.out.println("July class  update");
+		System.out.println("July class  update");
+		
+		
 	}
 }
