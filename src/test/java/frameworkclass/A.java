@@ -4,8 +4,10 @@ import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
+import org.apache.poi.util.SystemOutLogger;
+
 public class A {
-	
+
 	private void m1(int id ) {
 		
 	}
@@ -35,5 +37,11 @@ public class A {
 	    a.m4(j);
 	 System.out.println(i);   
 	 System.out.println(j);
+	 System.out.println("hi to all");
+	 System.out.println(j);
+	  
+	 
+
 	}
+
 }
