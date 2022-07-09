@@ -26,6 +26,8 @@ public class AA {
 		return i;
 	}
 	public static void main(String[] args) {
+		
+
 		AA a = new AA();
 		int m1 = a.m1();
 		System.out.println(m1);
@@ -35,6 +37,12 @@ public class AA {
 		System.out.println(m3);
 		List<Integer> m4 = a.m4();
 		System.out.println(m4);
+		
+		System.out.println("trail");
+		System.out.println("trail");
+		System.out.println("trail");
+		
+		
 		
 	}
 }
